@@ -1,12 +1,12 @@
 {
   "name": "lior/webpack-encore-react",
   "require": {
-    "fzaninotto/faker": "^1.8"
+    "fakerphp/faker": "^1.14"
   },
   "authors": [
     {
-      "name": "Lior Chamla",
-      "email": "lchamla@gmail.com"
+      "name": "Konate Bakary",
+      "email": "boukymen@gmail.com"
     }
   ],
   "autoload": {
